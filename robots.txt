@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://columbusweightlossteam.com/sitemap.xml
